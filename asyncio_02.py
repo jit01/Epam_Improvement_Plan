@@ -51,3 +51,19 @@ async def main():
 
 
 asyncio.run(main())
+
+"""
+output:
+Start fetching
+0
+1
+2
+3
+done fetching
+4
+5
+6
+7
+8
+9
+"""

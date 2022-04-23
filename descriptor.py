@@ -131,3 +131,17 @@ print(x.value)
 
 x.value = 'Hunt'
 del x.value
+
+
+"""
+Output:
+epam
+Getting value
+epam
+Setting value to epam
+Deleting value
+Getting value
+Ethan
+Setting value to Hunt
+Deleting value
+"""
